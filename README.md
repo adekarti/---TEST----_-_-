@@ -8,7 +8,7 @@ A basic html-css based digital clock.
 
 
 
-<!## Contributors ✨
+<!--## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -19,7 +19,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Yash-sudo-web"><img src="https://avatars.githubusercontent.com/u/69838816?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yash-sudo-web</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/Digital-Clock/commits?author=Yash-sudo-web" title="Code">💻</a></td>
   </tr>
-</table>
+--></table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
