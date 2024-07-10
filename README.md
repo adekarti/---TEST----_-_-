@@ -8,7 +8,7 @@ A basic html-css based digital clock.
 
 
 
-## Contributors ✨
+<!## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
